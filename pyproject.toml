@@ -8,7 +8,7 @@ license = "Apache 2.0"
 
 [tool.poetry.dependencies]
 python = "<3.11,>=3.8"
-requests = "^2.25.1"
+requests = "^2.31.0"
 singer-sdk = "^0.14.0"
 google-cloud-bigquery = ">=3.0.0"
 orjson = "3.7.2"
